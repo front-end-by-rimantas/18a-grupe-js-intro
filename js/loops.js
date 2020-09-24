@@ -61,10 +61,8 @@ console.clear();
 // }
 
 
-// 0 - 0    -> nulis
-
-const nuo = 10;
-const iki = 10;
+const nuo = -10000;
+const iki = 10000;
 
 let suma = 0;
 
